@@ -1,7 +1,7 @@
 name: Improve existing content
-description: Make a suggestion to improve the content in an existing article.
+description: Make a deleted to improve the content in an existing article.
 labels:
-  - content
+  -
 body:
   - type: markdown
     attributes:
